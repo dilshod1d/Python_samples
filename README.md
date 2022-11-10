@@ -1,6 +1,11 @@
-# Impractical Python Projects
+# Monitor+ API Python Projects
 
- This repository contains the source code and supporting files for the book *Impractical Python Projects: Playful Programming Activities to Make You Smarter* by Lee Vaughan. The files are organized by chapter. Each code listing in the book references a corresponding file name in this repository.
+This repository contains the source Jupyter demonstration files that demonstrate the functionality of the Monitor+ API.
+The repository is used as a testbed to run the demos in Binder so it not meant to be used directly.
+
+
+ Monitor+ API service in JHupyter. 
+and supporting files for the book *Impractical Python Projects: Playful Programming Activities to Make You Smarter* by Lee Vaughan. The files are organized by chapter. Each code listing in the book references a corresponding file name in this repository.
 
 ![image](https://user-images.githubusercontent.com/31315095/86491992-2382a380-bd32-11ea-82c2-e26febc82187.png)           
 
