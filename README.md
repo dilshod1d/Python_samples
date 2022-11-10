@@ -14,12 +14,12 @@ We will be providing demos in both Python and "R" to get users started.  This  r
 ## About Monitor+
 Monitor+ is a commercial JSON Web API that provides easy access to a huge range of historical reference market data from stock exchanges, commodity exchanges, proprietary market data providers and independent pricing agencies as well as currencies, global indices and more.
 
-Monitor+ is an extremely powerful API, with comprehensive data preprocessing, fills, lead/lags, custom averages and more.   The Monitor+ API  enables subscribers to easily receive market data in a per date, time series or row by column JSON format.
+Monitor+ is an extremely powerful API, with comprehensive data preprocessing, fills, lead/lags, custom averages and more. The Monitor+ API  enables subscribers to easily receive market data in a per date, time series or row by column JSON format.
 
 With just two HTTP requests subscribers can authenticate and receive values for any number of datasets that their subscription permits.
 
 
-## Find out more+
+## Find out more
 You can find out more about Monitor+ by visiting our web site www.sarus.com where full details are available including API documentation.
 
 ## Technical questions
