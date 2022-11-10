@@ -39,8 +39,8 @@ Prices start at  $160 per month including premium FX and stock market data.  You
 
 
 ## Add your own proprietary data
-If you have commercial grade time series data that you'd like to create a new channel to market and revenue stream then we can help. 
-You can  get in touch by emailing support@sarus.com and we can discuss how to make this happen.
+If you have commercial grade time series data that you feel could create a new channel to market/revenue stream for you then we can help. 
+You can get in touch by emailing support@sarus.com and together we can discuss how to make this happen.
 
 
 ## Python Version
