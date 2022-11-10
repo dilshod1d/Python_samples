@@ -34,10 +34,8 @@ If you are interested in subscribing or have questions then please  drop us an e
 ## Version
 The Monitor+ library uses Python 3.5.
 
-## Errata
-For updates and errata, visit https://nostarch.com/impracticalpythonprojects. Please report typos and mistakes to support@sarus.com.
 
 ## Additonal repositories by Author
-We  will have a similar "R" repository available shortly after this one is completed and the "Under Construction"  banner comes down.
-// [*Real World Python: A Hacker's Guide to Solving Problems with Code*](https://nostarch.com/real-world-python)
+We  will have a similar "R" repository available (shortly after this one is completed and the "Under Construction"  banner comes down).
+
 
