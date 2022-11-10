@@ -1,8 +1,13 @@
 # Monitor+ API Jupyter/Python Projects
 
-##   UNDER CONSTRUCTION   ##
+<p align="center">
+ <b> #   UNDER CONSTRUCTION   # </b>
+</p>
 
-![image](https://www.sarus.com/resources/images/monitorPlus.png)    
+<p align="right">
+  <img src="https://www.sarus.com/resources/images/monitorPlus.png">
+</p>
+
 
 This repository contains basic Python/Jupyter  files to  demonstrate the functionality of the Monitor+ API.
 The demos use  some historic European Central bank rates to show some basic to advanced analytic features.
@@ -36,7 +41,7 @@ Why not drop us an email at support@sarus.com and we can discuss your market ref
 
 ## Add your own proprietary data
 If you have commercial grade time series data that you'd like to create a new channel to market and revenue stream then we can help. 
-Please get in touch by emailing support@sarus.com and let's discuss how we can make this happen.
+You can  get in touch by emailing support@sarus.com and we can discuss how to make this happen.
 
 
 ## Python Version
