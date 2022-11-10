@@ -5,7 +5,8 @@
 ![image](https://www.sarus.com/resources/images/monitorPlus.png)    
 
 This repository contains basic Python/Jupyter  files to  demonstrate the functionality of the Monitor+ API.
-The demos use  some historic European Central bank rates to show some analytic features.
+The demos use  some historic European Central bank rates to show some basic to advanced analytic features.
+They are designed to demonstrate what can be easily achieved with a few lins of code and are <b>not</b> meant in ANY way to be solutions. 
 
 We will be providing demos in both Python and "R" to get users started.  This  repository is used as a test bed to run the demos in Binder.
 
@@ -26,16 +27,15 @@ If after visiting www.sarus.com, yoiu have technical or product questions then w
 You can contact us via the contact page at www.sarus.com  or drop us an email to support@sarus.com. We'll be glad to help.
  
 ## Interested in subscribing
-If after visiting www.sarus.com to find out more then we'd be glad to hear from you.
-Prices start at  $200 per nmonth including premium FX and stock market data  
-If you are interested in subscribing or have questions then please  drop us an email at support@sarus.com
+If after visiting www.sarus.com to find out more and you are interested in subscribing then we'd be glad to hear from you.
+Prices start at  $200 per nmonth including premium FX and stock market data.  
+Why not drop us an email at support@sarus.com and we can discuss in detail your needs.
 
-
-## Version
+## Python Version
 The Monitor+ library uses Python 3.5.
 
 
 ## Additonal repositories by Author
-We  will have a similar "R" repository available (shortly after this one is completed and the "Under Construction"  banner comes down).
+We  will have a similar "R" repository available shortly after this Python one is completed (and the "Under Construction"  banner comes down).
 
 
