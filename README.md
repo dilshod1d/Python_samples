@@ -29,7 +29,7 @@ You can contact us via the contact page at www.sarus.com  or drop us an email to
 ## Interested in subscribing
 If after visiting www.sarus.com to find out more and you are interested in subscribing then we'd be glad to hear from you.
 Prices start at  $200 per nmonth including premium FX and stock market data.  
-Why not drop us an email at support@sarus.com and we can discuss in detail your needs.
+Why not drop us an email at support@sarus.com and we can discuss your market reference data needs in detail.
 
 ## Python Version
 The Monitor+ library uses Python 3.5.
