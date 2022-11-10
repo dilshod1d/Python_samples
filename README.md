@@ -7,7 +7,7 @@ UNDER CONSTRUCTION
 This repository contains basic Python/Jupyter  files to  demonstrate the functionality of the Monitor+ API.
 The demos use  some historic European Central bank rates to show some analytic features.
 
-We will be providing demos in both Pythonb and "R" to get users started.  This  repository is used as a test bed to run the demos in Binder.
+We will be providing demos in both Python and "R" to get users started.  This  repository is used as a test bed to run the demos in Binder.
 
 
 ## About Monitor+
@@ -28,8 +28,8 @@ Yoiu can find out more about Monitor+ ny visiting our web site www.sarus.com  or
 
 
 
- Monitor+ API service in JHupyter. 
-and supporting files for the book *Impractical Python Projects: Playful Programming Activities to Make You Smarter* by Lee Vaughan. The files are organized by chapter. Each code listing in the book references a corresponding file name in this repository.
+
+
 
       
 
