@@ -1,9 +1,9 @@
 # Monitor+ API Jupyter/Python Projects
-
+<h1>
 <p align="center">
- <b> #   UNDER CONSTRUCTION   # </b>
+ <b>***  UNDER CONSTRUCTION  ***</b>
 </p>
-
+ </h1>
 <p align="right">
   <img src="https://www.sarus.com/resources/images/monitorPlus.png">
 </p>
@@ -30,7 +30,7 @@ You can find out more about Monitor+ by visiting our web site www.sarus.com wher
 
 ## Technical questions
 If after visiting www.sarus.com, you have technical or product questions then we'll be glad to help.
-You can contact us via the contact page at www.sarus.com  or drop an email to support@sarus.com and we'll be glad to help.
+Simply contact us via the contact page at www.sarus.com  or drop an email to support@sarus.com and we'll be glad to help.
 
 
 ## Subscription Details
