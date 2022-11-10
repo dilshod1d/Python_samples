@@ -1,13 +1,20 @@
 # Monitor+ API Python Projects
 
-This repository contains the source Jupyter demonstration files that demonstrate the functionality of the Monitor+ API.
-The repository is used as a testbed to run the demos in Binder so it not meant to be used directly.
+![image](https://www.sarus.com/resources/images/monitorPlus.png)    
+
+This repository contains basic Python/Jupyter  files to  demonstrate the functionality of the Monitor+ API.
+The demos use  some historic European Central bank rates to show some analytic features.
+
+We will be prioviding demos oinm both Pythonb and "R" to get users started. 
+The repository is used as a test bed to run the demos in Binder.
+
+
 
 
  Monitor+ API service in JHupyter. 
 and supporting files for the book *Impractical Python Projects: Playful Programming Activities to Make You Smarter* by Lee Vaughan. The files are organized by chapter. Each code listing in the book references a corresponding file name in this repository.
 
-![image](https://user-images.githubusercontent.com/31315095/86491992-2382a380-bd32-11ea-82c2-e26febc82187.png)           
+      
 
 ## Get the Book
 The book is available at retail bookstores like Barnes & Noble and from online sellers like https://www.amazon.com/. 
