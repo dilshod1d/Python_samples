@@ -9,7 +9,7 @@
 </p>
 
 
-This repository contains some Python/Jupyter files that demonstrate the functionality of the Monitor+ API.
+This repository contains some Python/Jupyter files that demonstrate the functionality of the Sarus Monitor+ API.
 The demos use some historic European Central bank rates to show some basic to advanced analytic notebook reoports.
 They are designed to demonstrate what can be easily achieved with just a few lines of Python code and are <b>not in ANY way</b> meant to be solutions. 
 
