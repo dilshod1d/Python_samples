@@ -1,6 +1,6 @@
-# Monitor+ API Python Projects
+# Monitor+ API Jupyter/Python Projects
 
-## UNDER CONSTRUCTION
+##   UNDER CONSTRUCTION   ##
 
 ![image](https://www.sarus.com/resources/images/monitorPlus.png)    
 
