@@ -35,8 +35,8 @@ You can contact us via the contact page at www.sarus.com  or drop an email to su
 
 ## Interested in subscribing
 If after visiting www.sarus.com to find out more and you are interested in subscribing then we'd be glad to hear from you.
-Prices start at  $200 per nmonth including premium FX and stock market data.  
-Why not drop us an email at support@sarus.com and we can discuss your market reference data needs in full.
+Prices start at  $160 per month including premium FX and stock market data.  
+If you  drop us an email to support@sarus.com and we can discuss your market reference data needs in full.
 
 
 ## Add your own proprietary data
