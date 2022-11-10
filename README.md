@@ -9,11 +9,11 @@
 </p>
 
 
-This repository contains basic Python/Jupyter  files to  demonstrate the functionality of the Monitor+ API.
-The demos use  some historic European Central bank rates to show some basic to advanced analytic features.
-They are designed to demonstrate what can be easily achieved with a few lins of code and are <b>not in ANY way</b> meant to be solutions. 
+This repository contains some Python/Jupyter files that demonstrate the functionality of the Monitor+ API.
+The demos use some historic European Central bank rates to show some basic to advanced analytic notebook reoports.
+They are designed to demonstrate what can be easily achieved with just a few lines of Python code and are <b>not in ANY way</b> meant to be solutions. 
 
-We will be providing demos in both Python and "R" to get users started.  This  repository is used as a test bed to run the demos in Binder.
+We will be providing demos in both Python and "R" to help get users started.  This repository is mainly used as a test bed to test running the  demos in Binder.
 
 
 ## About Monitor+
