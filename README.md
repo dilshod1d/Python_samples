@@ -27,12 +27,12 @@ You can find out more about Monitor+ by visiting our web site www.sarus.com wher
 
 
 ## Technical questions
-If after visiting www.sarus.com, you have technical or product questions then we'll be glad to help.
+If you have technical or product questions <i>after<i> visiting www.sarus.com then we'll be glad to help.
 Simply contact us via the contact page at www.sarus.com  or drop an email to support@sarus.com and we'll be glad to help.
 
 
 ## Subscription Details
-If after visiting www.sarus.com  you are interested in subscribing to Monitor+ then we'd be glad to hear from you.
+If you are interested in subscribing to Monitor+ <i>after<i> visiting www.sarus.com  then we'd be glad to hear from you.
 Prices start at  $160 per month including premium FX and stock market data.  You can contact us via the contact page at www.sarus.com or drop an email to support@sarus.com and we can discuss your market reference data needs.
 
 
