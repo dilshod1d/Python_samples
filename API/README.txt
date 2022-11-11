@@ -1,4 +1,3 @@
- 
 Python interface 0.89  to the Monitor+ API	November 2022
 Copyright (c) 2022 Sarus Systems Limited.
 
@@ -9,8 +8,7 @@ See www.sarus.com  for more detailed information
 --------------------------------------------------------------------------
 
 WHAT IS MONITORPLUS.PY?
-
-It is a Python interfave to the  Sarus Monitor+  financial martket data API.
+It is a Python interface to the  Sarus Monitor+  financial market data API.
 It is designed to enable easy access to market data using Python with the Monitor+ API. 
 
 
@@ -26,9 +24,9 @@ business and to develop new trading strategies.
 
 
 WHAT MARKET DATA IS AVAILABLE
-This  is a trial version of the full software and the market data is restrictedto one 
+This  is a trial version of the full software and the market data is restricted to one 
 datasource (European Central Bank) with full historical data uo to the end of 2021. 
-Subscribers can get access to thousands of datasets from stocks, commodities, FX, Crypto currencies and more.  
+Subscribers can get access to thousands of datasets from stocks, commodities, FX, Crypto-currencies and more.  
 
 
 AND FINALLY
