@@ -10,11 +10,9 @@
 
 
 This repository contains some Python/Jupyter files that demonstrate the functionality of the Sarus Monitor+ API.
-The demos use some historic European Central bank rates to show some basic to advanced analytic notebook reoports.
-They are designed to demonstrate what can be easily achieved with just a few lines of Python code and are <b>not in ANY way</b> meant to be solutions. 
-
-We will be providing demos in both Python and "R" to help get users to get started.  This repository is mainly used as a test bed to test for running the demos in Binder.
-
+The demos use some historic European Central bank rates to show some basic to advanced analytic reoport notebooks.
+The reports are designed to demonstrate just what can be easily achieved with a few lines of Python code and are <b>not in ANY way</b> meant to be solutions. 
+This repository is mainly used as a test bed to test for running the demos in Binder.
 
 ## About Monitor+
 Monitor+ is a commercial JSON Web API that provides easy access to a huge range of historical reference market data from stock exchanges, commodity exchanges, proprietary market data providers and independent pricing agencies as well as currencies, global indices and more.
@@ -48,4 +46,4 @@ The Monitor+ library uses Python 3.x.
 
 
 ## Additonal repositories by Author
-We  will have a similar "R" repository available shortly after this Python one is completed (and the "Under Construction"  banner comes down).
+We  will have a similar "R" repository available shortly after this Python repository is completed (and the "Under Construction"  banner comes down).
