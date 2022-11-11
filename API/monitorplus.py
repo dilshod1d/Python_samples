@@ -1,4 +1,4 @@
-# Copyright (c) Sarus Systemns Systems Limited 2022  
+# Copyright (c) Sarus Systems Systems Limited 2022  
 
 import sys
 import json
