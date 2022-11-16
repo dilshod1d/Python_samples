@@ -1,5 +1,3 @@
-# Copyright (c) Sarus Systems Systems Limited 2022  
-
 import sys
 import json
 
