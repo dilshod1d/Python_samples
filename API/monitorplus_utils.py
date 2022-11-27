@@ -1,17 +1,17 @@
-# Copyright (c) Sarus Systems Systems Limited 2022  
-
 import numpy as np
 import pandas as pd
 
 class MonitorUtils:    
      
-    def __init__(self, API_DSName1):
+    def __init__(self, API_DSName1, API_DSName2):
         self.API_DSName1 = API_DSName1
+        self.API_DSName2 = API_DSName2
+
 
     def get_display_data(self, dictionary):
         rows = dictionary['Rows']
         corrections = dictionary['Corrections']
-        df = pd.DataFrame(rows.values(), columns=[self.API_DSName1], index=rows.keys())
+        df = pd.DataFrame(rows.values(), columns=[self.API_DSName1, self.API_DSName2], index=rows.keys())
         df = df.reset_index()
         df.rename(columns={'index': 'Date'}, inplace=True)
         df.dropna(axis=0, inplace=True)
@@ -25,16 +25,17 @@ class MonitorUtils:
         MthList = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
         MthList_upd = {i + 1: word for i, word in enumerate(MthList)}
 
-        df = df.groupby(['Year', 'Month'], as_index=False).agg({self.API_DSName1: np.mean})
+        df = df.groupby(['Year', 'Month'], as_index=False).agg({self.API_DSName1: np.mean, self.API_DSName2: np.mean})
         df['Month'] = df['Month'].replace(MthList_upd)
-        df.rename(columns={self.API_DSName1: f"{self.API_DSName1} Mean"}, inplace=True)
+        df.rename(columns={self.API_DSName1: f"{self.API_DSName1} Mean", self.API_DSName2: f"{self.API_DSName2} Mean"}, inplace=True)
         return df
 
 
     def get_processed(self,df):
         MthList = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
         currency_1 = df.loc[:, self.API_DSName1]
-        datas = [currency_1]
+        currency_2 = df.loc[:, self.API_DSName2]
+        datas = [currency_1, currency_2]
         for num, data in enumerate(datas):
             temp = []
             for i in range(0, len(data), 12):
@@ -42,6 +43,7 @@ class MonitorUtils:
                 temp.append(lists)
             datas[num] = pd.DataFrame(temp, columns=MthList, index=data.Year.unique().tolist()).round(3)
         datas = tuple(datas)
+
         return datas
     
    
