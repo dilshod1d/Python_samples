@@ -6,18 +6,18 @@
 #
 #    pip-compile
 #
-cycler==0.10.0            # via matplotlib
-kiwisolver==1.2.0         # via matplotlib
-matplotlib==3.2.1
-numpy==1.18.5
-pandas==1.0.4
-plotly==5.11.0
-pyparsing==2.4.7          # via matplotlib
+cycler==0.12.1            # via matplotlib
+kiwisolver==1.4.5         # via matplotlib
+matplotlib==3.8.2
+numpy==1.26.3
+pandas==2.1.4
+plotly==5.18.0
+pyparsing==3.1.1          # via matplotlib
 python-dateutil==2.8.2    # via matplotlib, pandas
-pytz==2020.1              # via pandas
-scipy==1.4.1              # via seaborn
-seaborn==0.10.1
-six==1.15.0               # via cycler, python-dateutil
+pytz==2023.3              # via pandas
+scipy==1.11.4             # via seaborn
+seaborn==0.13.1
+six==1.16.0               # via cycler, python-dateutil
 datetime
 colorama
 plotly
